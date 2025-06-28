@@ -19,5 +19,7 @@
         public bool? Destacado { get; set; }
 
         public bool? Activo { get; set; }
+
+        //Este es un Cambio de Persona 2
     }
 }

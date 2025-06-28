@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\",
+  "WorkspaceRootPath": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB778A58-E887-4922-B87C-1479DCEA34A8}|MiTiendaVirtual.API\\MiTiendaVirtual.API.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\herramientas de programacion\\mitiendavirtual\\mitiendavirtual.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB778A58-E887-4922-B87C-1479DCEA34A8}|MiTiendaVirtual.API\\MiTiendaVirtual.API.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\pruebas\\mitiendavirtual\\mitiendavirtual.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB778A58-E887-4922-B87C-1479DCEA34A8}|MiTiendaVirtual.API\\MiTiendaVirtual.API.csproj|solutionrelative:mitiendavirtual.api\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\herramientas de programacion\\mitiendavirtual\\mitiendavirtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\pruebas\\mitiendavirtual\\mitiendavirtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\herramientas de programacion\\mitiendavirtual\\mitiendavirtual\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\pruebas\\mitiendavirtual\\mitiendavirtual\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\herramientas de programacion\\mitiendavirtual\\mitiendavirtual\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\pruebas\\mitiendavirtual\\mitiendavirtual\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\herramientas de programacion\\mitiendavirtual\\mitiendavirtual\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\pruebas\\mitiendavirtual\\mitiendavirtual\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E9DAEB89-91A7-4949-83B9-EFC9142EC6CF}|MiTiendaVirtual\\MiTiendaVirtual.csproj|solutionrelative:mitiendavirtual\\models\\categorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB778A58-E887-4922-B87C-1479DCEA34A8}|MiTiendaVirtual.API\\MiTiendaVirtual.API.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\herramientas de programacion\\mitiendavirtual\\mitiendavirtual.api\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB778A58-E887-4922-B87C-1479DCEA34A8}|MiTiendaVirtual.API\\MiTiendaVirtual.API.csproj|c:\\users\\mpinto\\3d objects\\repositorios idat\\pruebas\\mitiendavirtual\\mitiendavirtual.api\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB778A58-E887-4922-B87C-1479DCEA34A8}|MiTiendaVirtual.API\\MiTiendaVirtual.API.csproj|solutionrelative:mitiendavirtual.api\\models\\tiendavirtualdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -43,9 +43,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Categorium.cs",
-              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Categorium.cs",
+              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Categorium.cs",
               "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\Categorium.cs",
-              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Categorium.cs",
+              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Categorium.cs",
               "RelativeToolTip": "MiTiendaVirtual\\Models\\Categorium.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductosController.cs",
-              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual.API\\Controllers\\ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual.API\\Controllers\\ProductosController.cs",
               "RelativeDocumentMoniker": "MiTiendaVirtual.API\\Controllers\\ProductosController.cs",
-              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual.API\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual.API\\Controllers\\ProductosController.cs",
               "RelativeToolTip": "MiTiendaVirtual.API\\Controllers\\ProductosController.cs",
               "ViewState": "AgIAAGsAAAAAAAAAAAAMwHIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,9 +81,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "TiendaVirtualDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual.API\\Models\\TiendaVirtualDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual.API\\Models\\TiendaVirtualDbContext.cs",
               "RelativeDocumentMoniker": "MiTiendaVirtual.API\\Models\\TiendaVirtualDbContext.cs",
-              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual.API\\Models\\TiendaVirtualDbContext.cs",
+              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual.API\\Models\\TiendaVirtualDbContext.cs",
               "RelativeToolTip": "MiTiendaVirtual.API\\Models\\TiendaVirtualDbContext.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +105,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MiTiendaVirtual\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Controllers\\HomeController.cs",
               "RelativeToolTip": "MiTiendaVirtual\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +117,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\Cliente.cs",
               "RelativeToolTip": "MiTiendaVirtual\\Models\\Cliente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,9 +129,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "TiendaVirtualDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
               "RelativeDocumentMoniker": "MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
-              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Herramientas de Programacion\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
+              "ToolTip": "C:\\Users\\mpinto\\3D Objects\\Repositorios Idat\\Pruebas\\MiTiendaVirtual\\MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
               "RelativeToolTip": "MiTiendaVirtual\\Models\\TiendaVirtualDbContext.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAuwCoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
