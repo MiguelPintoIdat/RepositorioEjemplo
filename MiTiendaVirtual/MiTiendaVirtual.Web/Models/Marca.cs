@@ -6,5 +6,6 @@
 
         public string? Nombre { get; set; }
 
+        //Este es un comentario hecho por Persona 1
     }
 }
